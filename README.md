@@ -17,9 +17,7 @@
 ## Skills i'm Learning
 <bra>
 - C Programming
- 
 <bra>
 - HTML & CSS
- 
  <bra></bra>
 - Javascript
