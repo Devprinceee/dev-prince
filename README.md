@@ -8,7 +8,7 @@
  
 ## Skills i'm Learning
 <bra>
-- C Programming  
-- HTML & CSS  
+- C Programming    
+- HTML & CSS    
 - Javascript  
 - DSA
