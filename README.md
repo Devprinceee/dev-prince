@@ -7,8 +7,16 @@
   🔥 Goal : Become a software Developer  
  
 ## Skills i'm Learning
-<bra>
-- C Programming    
-- HTML & CSS    
-- Javascript  
-- DSA
+
+
+
+ 
+ - HTLM & CSS
+
+ - Javascript
+  
+ - DSA
+
+ - C Programming
+
+ ✨Thanks for visiting my github profile🪽
